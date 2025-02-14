@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 750 hello README.md
+chmod 754 hello
