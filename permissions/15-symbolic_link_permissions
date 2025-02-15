@@ -1,3 +1,4 @@
 #!/bin/bash
-chown --no-dereference vincent:staff _hello
+chown 774 vincent:staff _hello
+
 
