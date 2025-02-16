@@ -1,3 +1,2 @@
 #!/bin/bash
 chown -h 774 vincent staff _hello
-
