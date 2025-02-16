@@ -1,2 +1,3 @@
 #!/bin/bash
-chown -h 774 _hello
+chown -h 774 vincent staff _hello
+
