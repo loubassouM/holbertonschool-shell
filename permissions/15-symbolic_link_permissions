@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R  vincent:staff  _hello/*
+chown -h $(id -u vincent):$(id -g staff) _hello
