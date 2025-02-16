@@ -1,3 +1,2 @@
 #!/bin/bash
-chown vincent:personnel* _hello
-
+chown -R  vincent:staff  _hello/*
