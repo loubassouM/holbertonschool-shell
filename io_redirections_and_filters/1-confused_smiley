@@ -1,3 +1,2 @@
 #!/bin/bash
-print confused_smiley
-
+print(confused_smiley)
