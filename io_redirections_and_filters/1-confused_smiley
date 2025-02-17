@@ -1,2 +1,5 @@
 #!/bin/bash
-cat ":/"
+printf "confused_smiley"
+
+
+
