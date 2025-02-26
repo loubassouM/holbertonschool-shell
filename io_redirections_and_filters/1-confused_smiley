@@ -1,5 +1,2 @@
 #!/bin/bash
-printf "confused_smiley"
-
-
-
+printf "(\xc3\x94o)'\n"
